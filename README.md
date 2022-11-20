@@ -1,5 +1,5 @@
 # SampleRecyclerView
-Implement Recyclerview in android using Kotlin.
+Sample android application to demostrat how to implement Recyclerview in android using Kotlin.
 
 
 
